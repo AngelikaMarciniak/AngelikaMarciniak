@@ -1,4 +1,4 @@
-👋 Hi, I’m @AngelikaMarciniak
+## H2 👋 Hi, I’m @AngelikaMarciniak
 
 As a creative, always positive person with a lot of ambitions I am working very hard do develop my goals.
 Since many years I work for gastronomic business and study computer science at the same time: I graduated 4 years IT Hight School with 95% of proffesion diploma 
