@@ -8,6 +8,7 @@
 - I was leaving and study in France during 3 years
 - I speak fluently polish, english, french and a bit german
 - Computer science is my passion since I've got my first computer
+- I finished IT Hight School and I study Computer Science
 
 
 # :muscle: Most of the time I impove
@@ -20,4 +21,8 @@
  - React
  - Clouds
  - Testing
-   ...and still improve technologies I learned.
+ - ... and still improve technologies I learned
+ 
+ # Where to find me
+ https://www.linkedin.com/in/angelika-marciniak-450462104/
+ 
