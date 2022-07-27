@@ -20,4 +20,4 @@
  - React
  - Clouds
  - Testing
-... and still improve technologies I learned.
+   ...and still improve technologies I learned.
