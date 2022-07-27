@@ -5,7 +5,7 @@
 # :woman: About me
 - I am from Poland
 - I am leaving in beautifull Norway
-- I was leaving and study in France
+- I was leaving and study in France during 3 years
 - I speak fluently polish, english, french and a bit german
 - Computer science is my passion since I've got my first computer
 
