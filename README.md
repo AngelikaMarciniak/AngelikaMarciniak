@@ -12,9 +12,9 @@
 
 
 # :muscle: Most of the time I impove
- - Frontend - HTML, CSS, JavaScript, Sass
+ - Frontend - HTML, CSS, JavaScript
  - Backend - PHP, Java, C++
- - Databases - MySql
+ - Databases - MySql, Oracle Database 19c
  - Control Version - GIT
  
  # :pray: I want to learn
